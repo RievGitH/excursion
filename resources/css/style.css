@@ -1,0 +1,32 @@
+/* Stylesheet for Excursion project */
+body {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+h2{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+h3 {
+  font-weight: 300;
+  color: white;
+  font-size: 42px;
+  text-align: center;
+}
+h4{
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+h5{
+  color: Gray;
+  Font-size: 21px;
+  text-align: right;
+}
