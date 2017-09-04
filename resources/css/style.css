@@ -14,6 +14,9 @@ h2{
   font-size: 16px;
   text-align: center;
 }
+video {
+  video-position: center;
+}
 h3 {
   font-weight: 300;
   color: white;
@@ -25,7 +28,8 @@ h4{
   color: Gray;
   text-align: center;
 }
-h5{
+
+footer {
   color: Gray;
   Font-size: 21px;
   text-align: right;
